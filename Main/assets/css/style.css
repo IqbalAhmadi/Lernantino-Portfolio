@@ -42,6 +42,9 @@ header {
   align-items: center;
   background-color: var(--tertiary);
   box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
+  background-image: url(https://data.whicdn.com/images/119834165/original.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 header h1 {
@@ -49,9 +52,10 @@ header h1 {
   background-color: var(--secondary);
   padding: 5px 1% 5px 6%;
   margin: 0;
-  font-size: 4vw;
+  font-size: 3vw;
   line-height: 1;
-  background-image: url(../images/02-h1-bg-img.jpeg);
+  background-image: url("../images/header-img.jpeg");
+  border-radius: 40px 10px 34px;
 }
 
 nav {
@@ -89,8 +93,8 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
-  background-image: url("../images/02-hero.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  /* background: rgb(68, 88, 120); */
+  background-image: url("https://thumbs.gfycat.com/BelatedVeneratedKiskadee-max-1mb.gif"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: overlay;
@@ -225,23 +229,23 @@ main {
 
 /* portfolio project images */
 .run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/run-buddy.png");
 }
 
 .led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../images/mini-proj.png");
 }
 
 .react-calc {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/calculator.jpeg");
 }
 
 .pastel-puzzles {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/pas-puzz.jpeg");
 }
 
 .surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+  background-image: url("../images/horiseon.png");
 }
 
 /* end portfolio project images */
