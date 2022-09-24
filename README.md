@@ -8,11 +8,6 @@
 ## Description 
 This repo provides other developers as well as potential employers with a visual snapshot of my info and projects. 
 
-- HTML was updated to utilize semantic HTML 5
-- CSS was consolidated and modified to reflect proper utilization
-- Alt attributes were added to img tags for accesibility
-- Heading tags were updated to follow proper order
-
 ## Built With
 
 - HTML
@@ -34,7 +29,7 @@ This repo provides other developers as well as potential employers with a visual
 - "About Me", "Work", "Contact Me" links are scrolling the website to the appropriate sections
 
 ## Badges 
-https://img.shields.io/github/checks-status/IqbalAhmadi/Lernantino-Portfolio/main?color=g
+[Badge](https://img.shields.io/github/checks-status/IqbalAhmadi/Lernantino-Portfolio/main?color=g)
 
 ## Screenshot of the Page
 
