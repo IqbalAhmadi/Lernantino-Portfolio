@@ -9,6 +9,7 @@
 This repo provides other developers as well as potential employers with a visual snapshot of my info and projects. 
 
 [![Github Repo Size In Bytes](https://img.shields.io/github/languages/code-size/IqbalAhmadi/Lernantino-Portfolio)](https://github.com/iqbalahmadi/lernantino-portfolio)
+[![Github pull request](https://img.shields.io/github/issues-pr/IqbalAhmadi/Lernantino-Portfolio)](https://github.com/iqbalahmadi/lernantino-portfolio)
 
 ## Built With
 
