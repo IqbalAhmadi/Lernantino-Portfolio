@@ -8,6 +8,7 @@
 ## Description 
 This repo provides other developers as well as potential employers with a visual snapshot of my info and projects. 
 
+## Badges 
 [![Github Repo Size In Bytes](https://img.shields.io/github/languages/code-size/IqbalAhmadi/Lernantino-Portfolio)](https://github.com/iqbalahmadi/lernantino-portfolio)
 [![Github pull request](https://img.shields.io/github/issues-pr/IqbalAhmadi/Lernantino-Portfolio)](https://github.com/iqbalahmadi/lernantino-portfolio)
 [![Github Fork](https://img.shields.io/github/forks/IqbalAhmadi/Lernantino-Portfolio?style=social)](https://github.com/iqbalahmadi/lernantino-portfolio)
@@ -32,8 +33,6 @@ This repo provides other developers as well as potential employers with a visual
 - "Spotify" is linked to Spotify mian page
 - "About Me", "Work", "Contact Me" links are scrolling the website to the appropriate sections
 
-## Badges 
-[Badge](https://img.shields.io/github/checks-status/IqbalAhmadi/Lernantino-Portfolio/main?color=g)
 
 ## Screenshot of the Page
 
