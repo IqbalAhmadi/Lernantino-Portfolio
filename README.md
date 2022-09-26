@@ -22,7 +22,7 @@ This repo provides other developers as well as potential employers with a visual
 
 - The website is created with responsible design
 - Special media queries are used to make the website responsible for 980px, 768px, and 575px screens
-- "Horiseon Refactor", "Mini Project", "Run Buddy" images are clickable and taking to my other projects (New tab) 
+- "Horiseon Refactor", "Mini Project", "Run Buddy", "Calculator", and "Pastel Puzzles" images are clickable and taking to my other projects and appropriate websites. 
 - The phone number and email are created as call-to-action buttons and triggering a phone call and email client opening
 
 ## Active Links
